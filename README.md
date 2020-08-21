@@ -1,8 +1,7 @@
-**Lunar**
 
 **Summary**
 
-Lunar predicts the stress level of an individual for attending future events based on the calendar. 
+Model predicts the stress level of an individual for attending future events based on the calendar. 
 
 1. Raw Input: (1) events from calendar and stress level (similar to train.csv) are used for training the model, (2) unlabeled events are the test data (similar to test.csv)
 
